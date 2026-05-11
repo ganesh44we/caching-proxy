@@ -82,11 +82,7 @@ curl -i http://localhost:3000/products/1
 - `CMakeLists.txt`: Build configuration.
 - `.gitignore`: Ensures the repository remains clean of build artifacts.
 
----
 
-## License
-
-This project is open-source and available under the MIT License.
 
 ---
 
